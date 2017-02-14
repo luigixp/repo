@@ -1,5 +1,5 @@
-Remove the repo text.
-This is new  feature
+#Remove the repo text.
+#This is new  feature
 
 #!/bin/bash
 echo "Hello World"
